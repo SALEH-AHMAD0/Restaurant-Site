@@ -1,0 +1,55 @@
+.our-menu{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-size: 2rem;
+    position: relative;
+    bottom: 22rem;
+}
+
+.Our-menu-btn{
+    position: relative;
+    bottom: 20rem;
+    
+}
+
+.our-Menu-Btn-btn{
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.Menu-all-btn{
+    background-color: #222831;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+
+
+
+.View-more-menu-btn{
+    position: relative;
+    bottom: 101rem;
+    background-color:orange;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+   
+   
+}
+

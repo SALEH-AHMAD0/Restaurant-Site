@@ -1,0 +1,75 @@
+.book-a-table{
+    font-family: 'Dancing Script', 
+    cursive;
+    position: relative;
+    bottom: 22rem;
+    margin-right: 750px;
+}
+
+.fast-input{
+    position: relative;
+    bottom: 21.5rem;
+    margin-right: 700px;
+    width: 400px;
+    margin-left: 60px;
+   
+    
+}
+
+.second-input{
+    position: relative;
+    bottom: 21.5rem;
+    margin-right: 700px;
+    width: 400px;
+    margin-left: 60px;
+}
+
+.third-input{
+    position: relative;
+    bottom: 21.5rem;
+    margin-right: 700px;
+    width: 400px;
+    margin-left: 60px;
+}
+
+.fourth-input{
+    position: relative;
+    bottom: 21.5rem;
+    margin-right: 700px;
+    width: 400px;
+    margin-left: 60px;
+}
+
+.five-input{
+    position: relative;
+    bottom: 21.5rem;
+    margin-right: 700px;
+    width: 400px;
+    margin-left: 60px;
+}
+
+.book-Now{
+    background-color:orange;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    position: relative;
+    bottom: 21.5rem;
+    margin-right: 930px;
+    width: 130px;
+    margin-left: 60px;
+}
+
+.map{
+    position: relative;
+    bottom: 38.5rem;
+    margin-left: 500px;
+   
+}

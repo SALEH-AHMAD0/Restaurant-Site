@@ -1,0 +1,113 @@
+/* Background img start */
+.Background-img{
+    width: 1313px;
+    height: 750px;
+}  /* Background img End */
+
+
+ /* Background Intro start  */
+.background-intro-2{
+   width: 55%;
+   color: aliceblue;
+   position: relative;
+   top: 1rem; 
+   margin-left: 0px;
+}  /* Background Intro End  */
+
+/* Background Intro total div style start */
+.background-intro-total-div{
+    position: relative;
+    bottom: 32rem;
+    margin-left: 0px;
+}   /* Background Intro total div style End */
+
+.background-intro-1{
+   margin-right: 700px;
+  
+   
+    color: aliceblue;
+    font-family: 'Dancing Script', cursive;
+  
+   
+    
+}
+
+.background-intro-3{
+    margin-right: 710px;
+    color: aliceblue;
+    margin-right: 535px;
+}
+
+.Background-btn{
+    background-color:orange;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    position: relative;
+    bottom: 32rem;
+    margin-right: 1000px;
+    height: 40px;
+}                           
+/* Background img btn End Total Background img work end  */
+
+.logo{
+    color: aliceblue;
+    margin-right: 970px;
+    position: relative;
+    bottom: 14rem;
+    font-family: 'Dancing Script', cursive;
+}
+
+/* Navbar button start */
+.NAVBAR{
+    position: relative;
+    bottom: 60rem;
+    margin-left: 100px;
+   
+}
+
+.Nav-btn{
+    margin: 30px;
+    text-decoration: none;
+}  
+/* Navbar button End */
+
+.order-online{
+    background-color:orange;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    position: relative;
+    bottom: 62rem;
+    margin-left: 1000px;
+}
+
+.symnol{
+    position: relative;
+    bottom: 64.1rem;
+    margin-left: 690px;
+}
+
+.symbol-emoji{
+    margin: 5px;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
+
+

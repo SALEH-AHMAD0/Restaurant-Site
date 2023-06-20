@@ -1,0 +1,41 @@
+.About-fast-pera{
+    background-color:#222831;
+    color: aliceblue;
+    position: relative;
+    bottom: 17rem;
+    height: 200px;
+   text-align: center;
+   padding-top: 30px;
+   font-family: 'Dancing Script', cursive;
+ 
+   
+}
+
+.about-pic{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    bottom: 28rem;
+    margin-right: 350px;
+    border-radius: 50%;
+    border: 3px solid orange;
+}
+
+.order-now-btn{
+    background-color:orange;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+.discount-off{
+    font-size: medium;
+}
+

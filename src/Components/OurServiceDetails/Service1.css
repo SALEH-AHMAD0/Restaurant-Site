@@ -1,0 +1,62 @@
+.details-test-pera{
+    background-color: #222831;
+    position: relative;
+    bottom: 10rem;
+    height: 600px;
+}
+
+.about-img{
+    height: 500px;
+    margin-top: 50px;
+    margin-right: 500px;
+}
+
+.test-about-intro{
+    position: relative;
+    bottom: 33rem;
+    margin-left: 550px;
+    color: aliceblue;
+}
+
+.About-red-More-Btn{
+    background-color:orange;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-right: 440px;
+}
+
+.fast-intro-about{
+    font-family: 'Dancing Script', 
+    cursive;
+    margin-right: 290px;
+}
+
+.View-more-menu{
+    background-color:orange;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    /* margin-top: 580px; */
+    position: relative;
+    bottom: 65rem;
+   
+}
+
+.btn-more{
+    margin-top: 100px;
+}

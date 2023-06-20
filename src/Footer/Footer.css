@@ -1,0 +1,69 @@
+.total-div{
+    background-color: #212529;
+    height: 400px;
+    position: relative;
+    bottom: 30rem;
+}
+
+.contact-us{
+    color: white;
+    margin-top: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.location{
+    color: white;
+}
+
+.call{
+    color: white;
+    position: relative;
+    bottom: 1rem;
+}
+
+.demogmail{
+    color: aliceblue;
+    position: relative;
+    bottom: 2rem;
+}
+
+
+.fearse{
+    color: aliceblue;
+    margin-top: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+.neccesary{
+    color: aliceblue;
+}
+
+.onthis{
+    color: white;
+    position: relative;
+    bottom: 1rem;
+}
+
+.latin{
+    color: white;
+    position: relative;
+    bottom: 2rem;
+}
+
+.icon{
+    color: white;
+    position: relative;
+    bottom: 2.5rem;
+}
+
+.opening{
+    margin-top: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.everyday{
+    color: aliceblue;
+}
+
+.time{
+    color: white;
+}
